@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+#WORKDIR /usr/local/apache2/htdocs/frontend/html/

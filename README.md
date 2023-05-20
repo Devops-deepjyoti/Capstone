@@ -57,3 +57,5 @@ sudo systemctl status jenkins
 <p>The Jenkins usually runs at <strong> Port : 8080</strong> if left unconfigured </br>
 
 <p>Put the public IP assinged by the EC2 instance Dashboard followed by the Port Number to access the Jenkins Dashboard</p>
+
+For other steps of how to configure jenkins and create webhooks please visit the link : https://medium.com/@rajani103/jenkins-cicd-with-github-integration-c9790cd4d6fb 

@@ -77,6 +77,10 @@ Now we will dockerize the application in docker hub so that it can be accessed a
 For other steps of how to configure jenkins and create webhooks please visit the link :<br>
  https://medium.com/@rajani103/jenkins-cicd-with-github-integration-c9790cd4d6fb 
 
- ## AWS infrastructure 
+ ## AWS Architecture
+
 [![aws.jpg](https://i.postimg.cc/BZBpXX74/aws.jpg)](https://postimg.cc/LhhLW6Mb)
 
+## AWS cloudwatch Setup (image representation)
+
+[![cloud-watch.jpg](https://i.postimg.cc/0jp8L55V/cloud-watch.jpg)](https://postimg.cc/JHzVXLkX)

@@ -2,7 +2,7 @@
 <p>This project is based a web application that is able to find a travel partner using this very website</p>
 
 ## Features
-<p> Features of it includes Photo upload and finding <strong>travel budy</strong>  from the existing user who had already registered in thhe application.</p> 
+<p> Features of it includes Photo upload and finding <strong>travel buddy</strong>  from the existing user who had already registered in thhe application.</p> 
 
 ### Steps For setting up the project and Deploying the application
 
@@ -22,7 +22,9 @@ java -version
 ```
 if everyting looks ok the output should be like
 
-<output>openjdk version "11.0.12" 2021-07-20 OpenJDK Runtime Environment (build 11.0.12+7-post-Debian-2) OpenJDK 64-Bit Server VM (build 11.0.12+7-post-Debian-2, mixed mode, sharing)</output>
+```sh
+ openjdk version "11.0.12" 2021-07-20 OpenJDK Runtime Environment (build 11.0.12+7-post-Debian-2) OpenJDK 64-Bit Server VM (build 11.0.12+7-post-Debian-2, mixed mode, sharing)
+```
 
 Step 2: Install Jenkins 
 ```sh
@@ -74,3 +76,7 @@ Now we will dockerize the application in docker hub so that it can be accessed a
 
 For other steps of how to configure jenkins and create webhooks please visit the link :<br>
  https://medium.com/@rajani103/jenkins-cicd-with-github-integration-c9790cd4d6fb 
+
+ ## AWS infrastructure 
+[![aws.jpg](https://i.postimg.cc/BZBpXX74/aws.jpg)](https://postimg.cc/LhhLW6Mb)
+
